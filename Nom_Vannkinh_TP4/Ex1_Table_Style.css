@@ -4,12 +4,13 @@ fieldset{
     width: 40%;
     background-color: #fac09f;
     border: solid 3px #f79460;
+    height: 100%;
 }
 legend{
     margin-left: auto;
     margin-right: auto;
     font-family: 'Times New Roman';
-    font-size: 25px;
+    font-size: 50px;
     color: #600;
 }
 select{
